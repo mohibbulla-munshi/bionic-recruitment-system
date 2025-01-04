@@ -1,0 +1,21 @@
+#bionic-recruitment-form {
+    max-width: 600px;
+    margin: auto;
+}
+
+#bionic-recruitment-form input,
+#bionic-recruitment-form textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+#bionic-recruitment-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
